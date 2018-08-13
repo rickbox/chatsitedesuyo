@@ -1,0 +1,18 @@
+[debug] [2018-08-10T15:13:11.836Z] ----------------------------------------------------------------------
+[debug] [2018-08-10T15:13:11.839Z] Command:       /Users/komatsu/.nodebrew/node/v10.8.0/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-08-10T15:13:11.839Z] CLI Version:   4.0.3
+[debug] [2018-08-10T15:13:11.839Z] Platform:      darwin
+[debug] [2018-08-10T15:13:11.839Z] Node Version:  v10.8.0
+[debug] [2018-08-10T15:13:11.840Z] Time:          Sat Aug 11 2018 00:13:11 GMT+0900 (GMT+09:00)
+[debug] [2018-08-10T15:13:11.840Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-10T15:13:11.852Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-10T15:13:11.852Z] > authorizing via signed-in user
+[debug] [2018-08-10T15:13:11.855Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/chatsitedesuyo  
+  
+ Sat Aug 11 2018 00:13:11 GMT+0900 (GMT+09:00)
+[debug] [2018-08-10T15:13:12.738Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-10T15:13:12.739Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/chatsitedesuyo/tokens  
+  
+ Sat Aug 11 2018 00:13:12 GMT+0900 (GMT+09:00)
+[debug] [2018-08-10T15:13:13.532Z] <<< HTTP RESPONSE 200

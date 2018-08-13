@@ -1,0 +1,16 @@
+body{
+  background-color:black;
+  color:white;
+}
+
+#footer {
+  color:white;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;/*下線消去*/
+  color :lightblue;
+}
+
+a:hover{color:red}/*カーソルを乗せた時*/
